@@ -1,0 +1,24 @@
+{
+
+  "name": "cadastrar-planos-aulas",
+  "version": "1.0.0",
+  "description": "Cadastrar de Forma automatica os planos de aula",
+  "main": "script.js",
+  "type": "module",
+  "dependencies": {
+    "selenium-webdriver": "^4.24.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosWGama/script-aut-plano-aula.git"
+  },
+  "author": "Carlos W. Gama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosWGama/script-aut-plano-aula/issues"
+  },
+  "homepage": "https://github.com/CarlosWGama/script-aut-plano-aula#readme"
+}
