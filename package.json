@@ -9,6 +9,7 @@
     "selenium-webdriver": "^4.24.0"
   },
   "scripts": {
+    "start": "node script.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

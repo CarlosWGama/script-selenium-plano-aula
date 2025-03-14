@@ -15,7 +15,7 @@ async function teste() {
 
     // ============ Configurações ==================== ///
     //Aulas
-    const planos = PP;
+    const planos = LP6;
     // --------------------------------------------------------------------------------------
     // =================== SCRIPT AUTOMAÇÃO ======================= //
     //new Builder().forBrowser().build() = Cria uma conexão com o navegador
