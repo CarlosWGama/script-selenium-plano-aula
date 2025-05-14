@@ -6,8 +6,8 @@ import { LP1, LBD, IA, SM, LP6, PP } from './modelos/index.js'
 
 //PASSOS
 //PASSO 1 - RODE O SCRIPT
-//chrome.exe --remote-debugging-port=9111
-//msedge.exe --remote-debugging-port=9111
+//chrome.exe --remote-debugging-port=9111 --user-data-dir="C:/teste-profile-remover-depois"
+//msedge.exe --remote-debugging-port=9111 --user-data-dir="C:/teste-profile-remover-depois"
 
 //PASSO 2 - ACESSE A PÁGINA QUE IRÁ RECEBER OS COMANDOS
 

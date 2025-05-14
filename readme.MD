@@ -13,7 +13,7 @@ npm install
 3 - Rode o Chrome numa porta especifica, como a 9111
 
 ```shell
-chrome.exe --remote-debugging-port=9111
+chrome.exe --remote-debugging-port=9111 --user-data-dir="C:/teste-profile-remover-depois"
 ```
 
 4 - No novo browser que abriu, acesse a página dos planos de aula e já busque todos os planos de aula.
